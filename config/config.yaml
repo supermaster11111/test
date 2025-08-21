@@ -1,0 +1,9 @@
+chrome:
+  path: ""
+  user_data_dir: ""
+ui:
+  port: 5005
+scanner:
+  screenshot_every_step: true
+policy:
+  respect_tos: true
