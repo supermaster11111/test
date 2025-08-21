@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+nav { background: #ff7f27; padding: 10px; }
+nav button { margin-right: 5px; }
+#log { max-height: 200px; overflow-y: auto; background: #222; color: #eee; padding: 5px; }
+.card { border: 1px solid #ccc; padding: 10px; margin: 5px; }
